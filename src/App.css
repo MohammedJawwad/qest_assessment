@@ -1,0 +1,53 @@
+
+@tailwind base;
+
+@layer base {
+  html {
+    font-family: 'Inter', sans-serif;
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply text-gray-900 bg-gray-50;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-bold;
+  }
+}
+
+/* ye Component styles */
+@tailwind components;
+
+@layer components {
+  .btn {
+    @apply inline-flex items-center justify-center px-6 py-2 rounded-md font-medium transition-colors duration-200;
+  }
+  
+  .btn-primary {
+    @apply bg-red-500 text-white hover:bg-red-600;
+  }
+  
+  .btn-secondary {
+    @apply bg-white text-gray-900 border border-gray-300 hover:border-red-500;
+  }
+  
+  .input {
+    @apply w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-red-500 focus:border-transparent;
+  }
+  
+  .card {
+    @apply bg-white rounded-lg shadow-lg p-6 transition-shadow duration-200 hover:shadow-xl;
+  }
+}
+
+/* aur ye Utility classes */
+@tailwind utilities;
+
+@layer utilities {
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-red-500 to-red-600;
+  }
+}
