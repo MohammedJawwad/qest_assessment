@@ -4,7 +4,7 @@ A modern, responsive business management platform built with React, Vite, and Ta
 
 ## 🌟 Live Demo
 
-live demo: [RMax Platform]()
+live demo: [ RMax Platform ](https://qest-assessment.netlify.app/)
 
 ## 🛠️ Technologies Used
 
