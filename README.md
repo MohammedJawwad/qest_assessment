@@ -1,12 +1,10 @@
 # RMax - Business Management Platform 🚀
 
-![RMax Banner](/screenshots/banner.png)
-
 A modern, responsive business management platform built with React, Vite, and Tailwind CSS.
 
 ## 🌟 Live Demo
 
-live demo: [RMax Platform](https://your-deployment-url.com)
+live demo: [RMax Platform]()
 
 ## 🛠️ Technologies Used
 
@@ -21,22 +19,22 @@ live demo: [RMax Platform](https://your-deployment-url.com)
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing Page](/screenshots/landing.png)
+![Landing Page](public/LandingPage.png)
 
 ### Features Page
-![Features Page](/screenshots/features.png)
+![Features Page](public/FeaturesPage.png)
 
 ### Pricing Page
-![Pricing Page](/screenshots/pricing.png)
+![Pricing Page](public/PricingPage.png)
 
 ### Support Page
-![Support Page](/screenshots/support.png)
+![Support Page](public/SupportPage.png)
 
 ## 🚀 Getting Started
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/rmax.git
+   git clone https://github.com/MohammedJawwad/qest_assessment.git
    cd rmax
    ```
 
@@ -90,13 +88,8 @@ rmax/
 
  
 **Jawwad**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
-
-## 🌟 Show your support
-
-Give a ⭐️ if this project helped you!
-
+- MyWebsite: [Portfolio](https://mohammedjawwad.netlify.app/)
+- LinkedIn: [Mohammed Jawwad](https://www.linkedin.com/in/mohammedjawwad/)
 ---
 
-Built with ❤️ using React + Vite + Tailwind CSS
+Built with ❤️ using React + Vite + Tailwind CSS - Jawwad
