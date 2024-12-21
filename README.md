@@ -35,7 +35,7 @@ live demo: [RMax Platform]()
 1. **Clone the repository**
    ```bash
    git clone https://github.com/MohammedJawwad/qest_assessment.git
-   cd rmax
+   cd qest_assessment
    ```
 
 2. **Install dependencies**
